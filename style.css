@@ -1,0 +1,285 @@
+.w2560 {
+			width: 2560px;
+		}
+
+		.h1230 {
+			height: 1230px;
+		}
+
+		.bg-danger {
+			background: red;
+		}
+
+		.mauto {
+			margin-left: auto;
+			margin-right: auto;
+		}
+
+		body {
+			margin: 0px;
+		}
+
+		.w300 {
+			width: 300px;
+		}
+
+		.h100 {
+			height: 100px
+		}
+
+		.bg-success {
+			background: green;
+		}
+
+		.mt-1130 {
+			margin-top: 1130px;
+		}
+
+		.bg-gray {
+			background: gray;
+		}
+
+		.h1100 {
+			height: 1100px;
+		}
+
+		.h900 {
+			height: 900px;
+		}
+
+		.bg-blue {
+			background: blue;
+		}
+
+		.w1266 {
+			width: 1266px;
+		}
+
+		.h270 {
+			height: 270;
+		}
+
+		.dflex {
+			display: flex;
+		}
+
+		.ml-20 {
+			margin-left: 20px;
+		}
+
+        .h500 {
+            height: 500px;
+        }
+
+        .w300 {
+            width: 300px;
+        }
+
+        .ml-150 {
+            margin-left: 150px;
+        }
+
+        .pad {
+            padding-top: 0px;
+        }
+
+        .mt-200 {
+            margin-top: 200px;
+        }
+
+        .mr500 {
+            margin-right: 500px;
+        }
+
+        .w600 {
+            width: 1200px;
+        }
+
+        .h500 {
+            height: 500px;
+        }
+
+        .ml-350 {
+            margin-left: 350px;
+        }
+
+        .flexwrap {
+            flex-wrap: wrap;
+        }
+
+        .ml-500 {
+            margin-left: 600px;
+        }
+
+        .mt-250 {
+            margin-top: 250px;
+        }
+        
+        .outline {
+            outline: 1px solid white;
+        }
+
+        .h200 {
+            height: 200px;
+        }
+
+        .mt-50 {
+            margin-top: 50px;
+        }
+
+        .ffamily {
+            font-family: Arial;
+        }
+
+        .fweight {
+            font-weight: bold;
+        }
+        
+        .fsize {
+            font-size: 100px;
+        }
+
+        .w2000 {
+            width: 2000px;
+        }
+
+        .h700 {
+            height: 700px;
+        }
+
+        .borderr10 {
+            border-radius: 10px;
+        }
+
+        .bg-white{
+            background-color: rgba(255, 255, 255, 0.5);
+        }
+
+        .opacity {
+            opacity: .5;
+        }
+
+        .ml-400 {
+            margin-left: 400px;
+        }
+
+        .color {
+            color: white;
+        }
+
+        .ml-750 {
+            margin-left: 750px;
+        }
+
+        .ml-40 {
+            margin-left: 110px;
+        }
+
+        .w1200 {
+            width: 1200px;
+        }
+
+        .ml-0 {
+            margin-left: 0px;
+        }
+
+        .w1000 {
+            width: 1000px;
+        }
+
+        .h416 {
+            height: 416px;
+        }
+
+        .mt-570 {
+            margin-top: 530px;
+        }
+
+        .ml-700 {
+            margin-left: 700px;
+        }
+
+        .color1 {
+            background-color: rgb(204, 208, 207);
+        }
+
+        .color2 {
+            background-color: rgb(6, 20, 27);
+        }
+
+        .textcolor {
+            color: rgb(204, 208, 207);
+        }
+
+        .color3 {
+            background-color: rgb(74, 92, 106);
+        }
+
+        .color4 {
+            background-color: rgb(37, 55, 69);
+        }
+
+        .colorh {
+            background-color: rgb(6, 20, 27);
+            transition: 0.3s;
+        }
+
+        .colorh:hover  {
+            background-color: rgb(37, 55, 69);
+            
+        }
+
+        .links a {
+            transition: 0.3s;
+        }
+
+        .links:hover a {
+            color: black;
+        }
+
+        .link {
+            transition: 1s;
+        }
+
+        .link:hover {
+            color: white;
+        }
+
+        .linkdecor a {
+            font-family: Arial;
+            font-size: 40px;
+            font-weight: bold;
+            text-decoration: none;
+            color: white;
+            margin-top: 30px;
+        }
+
+        .harrylogoani {
+            animation-name: logo;
+            animation-duration: 1.5s;
+        }
+
+        @keyframes logo {
+            from{padding-top: 500px}
+            to{padding-top: 170px}
+        }
+
+        #select1 {
+
+        }
+
+        #select2 {
+
+        }
+
+        html {
+            scroll-behavior: smooth;
+        }
+
+        #select3 {
+
+        }
+
+        #select4 {
+
+        }
